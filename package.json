@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sloansta/jest-another-RPG#readme",
   "devDependencies": {
+    "inquirer": "^8.2.0",
     "jest": "^27.4.2"
   }
 }
